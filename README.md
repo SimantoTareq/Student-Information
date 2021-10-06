@@ -57,7 +57,7 @@
 
 Here the Grade and New\_CGPA are new data. You have to calculate and evaluate these form all the data you have taken from the user input. I’ve attached the NSU grading policy below. 
 
-Lastly, in a separate program file you write a code where a user will give an input of a course name and you have to show (**Name, ID, Course\_Name, Grade)** this which have only that particular course name. For example, if user input is CSE115, then you have to print (**Name, ID, Course\_Name, Grade)** that have course name CSE115. Of course, you have to read those data from **Student\_grade.txt** for printing **.**
+
 
 ` `Point to be noted:
 
@@ -67,6 +67,6 @@ Lastly, in a separate program file you write a code where a user will give an in
 For example- 
 
 Md\_Tanvir 1411057042 <tanvir@gmail.com> 1790489427 Mirpur\_Dhaka 4\_June\_1994 .
-Md\_Enan 1231057042 <enan@gmail.com> 1690489427 Motijheel\_Dhaka 21\_June\_1993.
+
 
 
