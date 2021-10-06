@@ -61,11 +61,12 @@ Lastly, in a separate program file you write a code where a user will give an in
 
 ` `Point to be noted:
 
-1. For one student every data will in a single row when you write those data in the text file. Just there will be space between different data. Next student’s info will be in the next line. 
-1. There will be no white space in a string. If you have to use multiple words in a data, you have to use underscore (\_) between those words. 
+1. For one student every data will in a single row when you write those data in the text file. Just there will be space between     different data. Next student’s info will be in the next line. 
+2. There will be no white space in a string. If you have to use multiple words in a data, you have to use underscore (\_) between those words. 
 
 For example- 
 
-Md\_Tanvir 1411057042 <tanvir@gmail.com> 1790489427 Mirpur\_Dhaka 4\_June\_1994 ……………………………. Md\_Enan 1231057042 <enan@gmail.com> 1690489427 Motijheel\_Dhaka 21\_June\_1993………………………….
+Md\_Tanvir 1411057042 <tanvir@gmail.com> 1790489427 Mirpur\_Dhaka 4\_June\_1994 .
+Md\_Enan 1231057042 <enan@gmail.com> 1690489427 Motijheel\_Dhaka 21\_June\_1993.
 
 
