@@ -1,6 +1,7 @@
 # Student-Information
-CSE115L
-Project
+
+<p align="center"><strong>CSE115L</strong></p>
+<p align="center"><strong>Project</strong></p>
 Student Information (Main Structure)
 1.Basic Information (Nested Structure-1, under Student Information)
 •	Name (String) 
